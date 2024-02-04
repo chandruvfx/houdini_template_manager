@@ -1,3 +1,3 @@
 # houdini_template_manager
 
-[![Little red ridning hood](https://ibb.co/KL7wBnD)](https://vimeo.com/897104945)
+[![Little red ridning hood](https://i.ibb.co/BrjNvkG/tp.jpg)](https://vimeo.com/897104945)
