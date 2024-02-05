@@ -1,5 +1,6 @@
 # Data model for template pilot. all underlying operations carried out
-# with this model. 
+# with this model like retriving and registering datas from 
+# the config and info json 
 import os
 import sys
 import re
